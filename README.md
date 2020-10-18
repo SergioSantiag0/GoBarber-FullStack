@@ -55,7 +55,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 <br>
 
 <h1> 📑 Licença</h1>
-<b>Este projeto está sob a licença MIT. Veja a <a href="">LICENÇA</a> para mais informações</b>
+<b>Este projeto está sob a licença MIT. Veja a <a href="https://github.com/SergioSantiag0/GoBarber-FullStack/blob/master/LICENSE">LICENÇA</a> para mais informações</b>
 
 <br>
 <br>
