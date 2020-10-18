@@ -1,0 +1,9 @@
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/SergioSantiag0/GoBarber-mobile
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/SergioSantiag0/GoBarber-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/SergioSantiag0/GoBarber-backend
