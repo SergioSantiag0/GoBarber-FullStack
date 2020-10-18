@@ -1,15 +1,15 @@
 <h1 align="center">
 <br>
-    <img src="./frontend/github/logo.png" alt="Gobarber">
+    <img src="./github/logo.png" alt="Gobarber">
     <br>
     <br>
     🚀 Bootcamp GoStack 🚀
 </h1>
 
 <div align="center">
-    <img src="https://img.shields.io/static/v1?label=made by&message=Sérgio Santiago&color=#ff9000&style=<STYLE>&logo=<LOGO>"/>
+    <img src="https://img.shields.io/static/v1?label=made_by&message=Sérgio Santiago&color=#ff9000&style=<STYLE>&logo=<LOGO>"/>
     <img src="https://img.shields.io/static/v1?label=language&message=typescript&color=#ff9000&style=<STYLE>&logo=<LOGO>"/>
-    <img src="https://img.shields.io/static/v1?label=last commit&message=october&color=#ff9000&style=<STYLE>&logo=<LOGO>"/>
+    <img src="https://img.shields.io/static/v1?label=last_commit&message=october&color=#ff9000&style=<STYLE>&logo=<LOGO>"/>
     <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=#ff9000&style=<STYLE>&logo=<LOGO>"/>
 </div>
 
@@ -19,7 +19,7 @@
 
 <div align="center" id="id">
 <br>
-    <img src="./frontend/github/login.gif" alt="demo-login" height="500">
+    <img src="./github/login.gif" alt="demo-login" height="500">
     
 </div>
 <br>
