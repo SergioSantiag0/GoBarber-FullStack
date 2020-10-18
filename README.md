@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://img.shields.io/static/v1?label=made_by&message=Sérgio Santiago&color=#ff9000&style=<STYLE>&logo=<LOGO>"/>
+    <img src="https://img.shields.io/static/v1?label=made_by&message=Sergio_Santiago&color=#ff9000&style=<STYLE>&logo=<LOGO>"/>
     <img src="https://img.shields.io/static/v1?label=language&message=typescript&color=#ff9000&style=<STYLE>&logo=<LOGO>"/>
     <img src="https://img.shields.io/static/v1?label=last_commit&message=october&color=#ff9000&style=<STYLE>&logo=<LOGO>"/>
     <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=#ff9000&style=<STYLE>&logo=<LOGO>"/>
