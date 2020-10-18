@@ -7,3 +7,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/SergioSantiag0/GoBarber-backend
+[submodule "web"]
+	path = web
+	url = https://github.com/SergioSantiag0/GoBarber-frontend
