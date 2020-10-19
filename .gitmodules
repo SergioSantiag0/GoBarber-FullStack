@@ -10,3 +10,12 @@
 [submodule "web"]
 	path = web
 	url = https://github.com/SergioSantiag0/GoBarber-frontend
+[submodule "frontend-web"]
+	path = frontend-web
+	url = https://github.com/SergioSantiag0/GoBarber-frontend
+[submodule "frontend-mobile"]
+	path = frontend-mobile
+	url = https://github.com/SergioSantiag0/GoBarber-mobile
+[submodule "backend-api"]
+	path = backend-api
+	url = https://github.com/SergioSantiag0/GoBarber-backend

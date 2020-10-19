@@ -7,10 +7,10 @@
 </h1>
 
 <div align="center">
-    <img src="https://img.shields.io/static/v1?label=made_by&message=Sergio_Santiago&color=#ff9000&style=<STYLE>&logo=<LOGO>"/>
-    <img src="https://img.shields.io/static/v1?label=language&message=typescript&color=#ff9000&style=<STYLE>&logo=<LOGO>"/>
-    <img src="https://img.shields.io/static/v1?label=last_commit&message=october&color=#ff9000&style=<STYLE>&logo=<LOGO>"/>
-    <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=#ff9000&style=<STYLE>&logo=<LOGO>"/>
+    <img src="https://img.shields.io/static/v1?label=made_by&message=Sergio_Santiago&color=rgb(255, 144, 0)&style=<STYLE>&logo=<LOGO>"/>
+    <img src="https://img.shields.io/static/v1?label=language&message=typescript&color=rgb(255, 144, 0)&style=<STYLE>&logo=<LOGO>"/>
+    <img src="https://img.shields.io/static/v1?label=last_commit&message=october&color=rgb(255, 144, 0)&style=<STYLE>&logo=<LOGO>"/>
+    <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=rgb(255, 144, 0)&style=<STYLE>&logo=<LOGO>"/>
 </div>
 
 
@@ -19,8 +19,8 @@
 
 <div align="center" id="id">
 <br>
-    <img src="./github/login.gif" alt="demo-login" height="500">
-    
+    <img src="./github/login.gif" alt="demo-login" height="500">&nbsp;&nbsp;&nbsp;
+    <img src="./github/login-app.gif" alt="demo-login" height="500">
 </div>
 <br>
 
@@ -60,10 +60,6 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 <br>
 <br>
 
-<h1> 📭 Entre em contato</h1>
-<a href="https://www.linkedin.com/in/s%C3%A9rgio-santiago-16427217a/"> 🔗 Linkedin</a>
-
-<br>
 <hr>
 
-<p>Feito com ❤ por Sérgio Santiago<p>
+<p>Feito com ❤ por Sérgio Santiago 👏 <a href="https://www.linkedin.com/in/s%C3%A9rgio-santiago-16427217a/">Entre em contato!</a><p>
